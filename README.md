@@ -4,10 +4,10 @@
      
      -🔭 I’m currently working on various data analytics projects
       
-     -🌱 I’m currently learning python, SQL and advanced Tableau
+     -🌱 I’m currently learning python for data processing and machine learning, SQL and advanced Tableau analytics!
      
      -📫How to reach me: sg5ar@virginia.edu
      
-     -⚡ Fun fact: I am not sure if it is my dog who walks me or I am walking her !
+     -⚡ The best moment of my day is when my dog and I go for a walk together 
 
 
