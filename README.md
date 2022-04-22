@@ -4,7 +4,7 @@
      
      -🔭 I’m currently working on various data analytics projects
       
-     -🌱 I’m currently learning python for data processing and machine learning, SQL and advanced Tableau analytics!
+     -🌱 I’m currently advancing my skills in python for data analytics and machine learning, SQL and advanced Tableau analytics!
      
      -📫How to reach me: sg5ar@virginia.edu
      
