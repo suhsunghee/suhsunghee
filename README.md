@@ -1,13 +1,13 @@
-### Hi ! I'm Sunghee Groffy ! 👋😄
+### Hi ! I'm Sunghee👋😄
 
 ✨✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
      
-     -🔭 I’m currently working on various data analytics projects
+     -🔭 I work as a data anlyst
       
-     -🌱 I’m currently advancing my skills in python for data analytics and machine learning, SQL and advanced Tableau analytics!
+     -🌱 I love being out in the wilderness of Colorado
      
      -📫How to reach me: sg5ar@virginia.edu
      
-     -⚡ The best moment of my day is when my dog and I go for a walk together 
+     -⚡ The best moment of my day is when my dogs and I go for a walk together 
 
 
